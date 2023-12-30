@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-inline: 2vw;
+    gap: 3rem;
+    flex-direction: column;
+}
+.center2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-inline: 2vw;
+    gap: 1rem;
+}
